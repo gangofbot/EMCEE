@@ -75,7 +75,7 @@ def get_readable_time(seconds: int) -> str:
 
 PM_START_TEXT = """
 𝙷𝙴𝚈,my name is ◤Mʀ𝙂𝘼𝙉𝙂𝙎𝙏𝙀𝙍/n
-𝙸'𝙰𝙼 𝙰𝙽 𝙰𝙽𝙸𝙼𝙴 𝚃𝙷𝙴𝙼𝙴𝙳 𝙶𝚁𝙾𝚄𝙿 𝙼𝙰𝙽𝙰𝙶𝙸𝙽𝙶 𝙱𝙾𝚃! BY SATYA AND ◤Mʀ𝙂𝘼𝙉𝙂𝙎𝙏𝙀𝙍 DEVS 𝙲𝙻𝙸𝙲𝙺` *📚𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂* `𝙱𝚄𝚃𝚃𝙾𝙽 𝙱𝙴𝙻𝙾𝚆 𝚃𝙾 𝙴𝚇𝙿𝙻𝙾𝚁𝙴 𝙼𝙾𝚁𝙴 𝙰𝙱𝙾𝚄𝚃 𝙼𝙴 𝙰𝙽𝙳 𝙼𝚈 𝙵𝚄𝙽𝙲𝚃𝙸𝙾𝙽𝚂 [.](https://telegra.ph/file/d03045c496a1fad34fdc0.jpg)
+𝙸'𝙰𝙼 𝙰𝙽 𝙰𝙽𝙸𝙼𝙴 𝚃𝙷𝙴𝙼𝙴𝙳 𝙶𝚁𝙾𝚄𝙿 𝙼𝙰𝙽𝙰𝙶𝙸𝙽𝙶 𝙱𝙾𝚃! BY SATYA AND ◤Mʀ𝙂𝘼𝙉𝙂𝙎𝙏𝙀𝙍 DEVS 𝙲𝙻𝙸𝙲𝙺` *📚𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂* `𝙱𝚄𝚃𝚃𝙾𝙽 𝙱𝙴𝙻𝙾𝚆 𝚃𝙾 𝙴𝚇𝙿𝙻𝙾𝚁𝙴 𝙼𝙾𝚁𝙴 𝙰𝙱𝙾𝚄𝚃 𝙼𝙴 𝙰𝙽𝙳 𝙼𝚈 𝙵𝚄𝙽𝙲𝚃𝙸𝙾𝙽𝚂 [.](https://telegra.ph/file/976fcc994a12bde17f3a1.jpg)
 """
 
 buttons = [
@@ -105,7 +105,7 @@ HELP_STRINGS = """
 ༆*Rikudo Senin comes with many special features in it*༆
 ꧁*CHECK ALL BUTTON BELOW TO EXPLORE EVERY COMMANDS OF ◤Mʀ𝙂𝘼𝙉𝙂𝙎𝙏𝙀𝙍*꧂
 𖣘 *All commands can either be used with* `/` *or* `!`.
-𖣘 *If you facing any issue or find any bugs in any command then you can report it in @MRGangsterbot* [.](https://telegra.ph/file/d03045c496a1fad34fdc0.jpg)
+𖣘 *If you facing any issue or find any bugs in any command then you can report it in @MRGangsterbot* [.](https://telegra.ph/file/976fcc994a12bde17f3a1.jpg)
 """
 
 
