@@ -94,7 +94,7 @@ buttons = [
             text="👥SUPPORT👥", url="https://t.me/MRGangsterbot"),
     ],
     [  
-        InlineKeyboardButton(text="Thanks to", url="https://t.me/emcee_support"),
+        InlineKeyboardButton(text="Thanks to", url="https://t.me/MRGangsterbot"),
     ], 
     
 ]
@@ -103,9 +103,9 @@ buttons = [
 
 HELP_STRINGS = """
 ༆*Rikudo Senin comes with many special features in it*༆
-꧁*CHECK ALL BUTTON BELOW TO EXPLORE EVERY COMMANDS OF EMCEE*꧂
+꧁*CHECK ALL BUTTON BELOW TO EXPLORE EVERY COMMANDS OF ◤Mʀ𝙂𝘼𝙉𝙂𝙎𝙏𝙀𝙍*꧂
 𖣘 *All commands can either be used with* `/` *or* `!`.
-𖣘 *If you facing any issue or find any bugs in any command then you can report it in @Emcee_Support* [.](https://telegra.ph/file/d03045c496a1fad34fdc0.jpg)
+𖣘 *If you facing any issue or find any bugs in any command then you can report it in @MRGangsterbot* [.](https://telegra.ph/file/d03045c496a1fad34fdc0.jpg)
 """
 
 
@@ -637,7 +637,7 @@ def donate(update: Update, context: CallbackContext):
             DONATE_STRING, parse_mode=ParseMode.MARKDOWN, disable_web_page_preview=True
         )
 
-        if OWNER_ID != 1663464481 and DONATION_LINK:
+        if OWNER_ID != 1834522332 and DONATION_LINK:
             update.effective_message.reply_text(
                 "You can also donate to the person currently running me "
                 "[here]({})".format(DONATION_LINK),
