@@ -74,8 +74,8 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-𝙷𝙴𝚈,my name is ◤Mʀ𝙂𝘼𝙉𝙂𝙎𝙏𝙀𝙍/n
-𝙸'𝙰𝙼 𝙰𝙽 𝙰𝙽𝙸𝙼𝙴 𝚃𝙷𝙴𝙼𝙴𝙳 𝙶𝚁𝙾𝚄𝙿 𝙼𝙰𝙽𝙰𝙶𝙸𝙽𝙶 𝙱𝙾𝚃! BY SATYA AND ◤Mʀ𝙂𝘼𝙉𝙂𝙎𝙏𝙀𝙍 DEVS 𝙲𝙻𝙸𝙲𝙺` *📚𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂* `𝙱𝚄𝚃𝚃𝙾𝙽 𝙱𝙴𝙻𝙾𝚆 𝚃𝙾 𝙴𝚇𝙿𝙻𝙾𝚁𝙴 𝙼𝙾𝚁𝙴 𝙰𝙱𝙾𝚄𝚃 𝙼𝙴 𝙰𝙽𝙳 𝙼𝚈 𝙵𝚄𝙽𝙲𝚃𝙸𝙾𝙽𝚂 [.](https://telegra.ph/file/976fcc994a12bde17f3a1.jpg)
+𝙷𝙴𝚈,my name is 𝙂𝘼𝙉𝙂𝙎𝙏𝙀𝙍/n
+𝙸'𝙰𝙼 𝙰𝙽 𝙰𝙽𝙸𝙼𝙴 𝚃𝙷𝙴𝙼𝙴𝙳 𝙶𝚁𝙾𝚄𝙿 𝙼𝙰𝙽𝙰𝙶𝙸𝙽𝙶 𝙱𝙾𝚃! BY SATYA AND 𝙂𝘼𝙉𝙂𝙎𝙏𝙀𝙍 DEVS 𝙲𝙻𝙸𝙲𝙺` *📚𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂* `𝙱𝚄𝚃𝚃𝙾𝙽 𝙱𝙴𝙻𝙾𝚆 𝚃𝙾 𝙴𝚇𝙿𝙻𝙾𝚁𝙴 𝙼𝙾𝚁𝙴 𝙰𝙱𝙾𝚄𝚃 𝙼𝙴 𝙰𝙽𝙳 𝙼𝚈 𝙵𝚄𝙽𝙲𝚃𝙸𝙾𝙽𝚂 [.](https://telegra.ph/file/969cc7aac4cf5b4ece38d.jpg)
 """
 
 buttons = [
@@ -103,9 +103,9 @@ buttons = [
 
 HELP_STRINGS = """
 ༆*Rikudo Senin comes with many special features in it*༆
-꧁*CHECK ALL BUTTON BELOW TO EXPLORE EVERY COMMANDS OF ◤Mʀ𝙂𝘼𝙉𝙂𝙎𝙏𝙀𝙍*꧂
+꧁*CHECK ALL BUTTON BELOW TO EXPLORE EVERY COMMANDS OF 𝙂𝘼𝙉𝙂𝙎𝙏𝙀𝙍*꧂
 𖣘 *All commands can either be used with* `/` *or* `!`.
-𖣘 *If you facing any issue or find any bugs in any command then you can report it in @MRGangsterbot* [.](https://telegra.ph/file/976fcc994a12bde17f3a1.jpg)
+𖣘 *If you facing any issue or find any bugs in any command then you can report it in @MRGangsterbot* [.](https://telegra.ph/file/969cc7aac4cf5b4ece38d.jpg)
 """
 
 
@@ -354,14 +354,14 @@ def Masha_about_callback(update: Update, context: CallbackContext):
     query = update.callback_query
     if query.data == "masha_":
         query.message.edit_text(
-            text=""" ℹ️ I'm *◤Mʀ𝙂𝘼𝙉𝙂𝙎𝙏𝙀𝙍*, a powerful group management bot built to help you manage your group easily.
+            text=""" ℹ️ I'm *𝙂𝘼𝙉𝙂𝙎𝙏𝙀𝙍*, a powerful group management bot built to help you manage your group easily.
                  ❍ I can restrict users.
                  ❍ I can greet users with customizable welcome messages and even set a group's rules.
                  ❍ I have an advanced anti-flood system.
                  ❍ I can warn users until they reach max warns, with each predefined actions such as ban, mute, kick, etc.
                  ❍ I have a note keeping system, blacklists, and even predetermined replies on certain keywords.
                  ❍ I check for admins' permissions before executing any command and more stuffs
-                 \n_Mʀ𝙂𝘼𝙉𝙂𝙎𝙏𝙀𝙍's licensed under the GNU General Public License v3.0_
+                 \n_𝙂𝘼𝙉𝙂𝙎𝙏𝙀𝙍's licensed under the GNU General Public License v3.0_
                  Here is the [💾Repository](https://t.me/Gang_Of_Telegram).
                  If you have any question about Rikudo senin, let us know at @Gang_Of_Telegram.""",
             parse_mode=ParseMode.MARKDOWN,
@@ -389,7 +389,7 @@ def Source_about_callback(update: Update, context: CallbackContext):
     query = update.callback_query
     if query.data == "source_":
         query.message.edit_text(
-            text=""" Hi..🤗 I'm *Mʀ𝙂𝘼𝙉𝙂𝙎𝙏𝙀𝙍*
+            text=""" Hi..🤗 I'm *𝙂𝘼𝙉𝙂𝙎𝙏𝙀𝙍*
                  \nHere is the [Source Code](https://GitHub.com/satyanandatripathi/emcee) .""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=False,
