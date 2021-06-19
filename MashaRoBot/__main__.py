@@ -94,7 +94,7 @@ buttons = [
             text="👥SUPPORT👥", url="https://t.me/MRGangsterbot"),
     ],
     [  
-        InlineKeyboardButton(text="Thanks to", url="https://t.me/MRGangsterbot"),
+        
     ], 
     
 ]
