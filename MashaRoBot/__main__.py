@@ -84,7 +84,7 @@ buttons = [
             text="➕️ ADD 𝙂𝘼𝙉𝙂𝙎𝙏𝙀𝙍 TO YOUR GROUP ➕️", url="t.me/Mrgangbot?startgroup=true"),
     ],
     [
-        InlineKeyboardButton(text="ℹ️ABOUT", callback_data="masha_"),
+        InlineKeyboardButton(text="⚡ABOUT", callback_data="masha_"),
         InlineKeyboardButton(text="📚COMMANDS", callback_data="help_back"),
     ],
     [
