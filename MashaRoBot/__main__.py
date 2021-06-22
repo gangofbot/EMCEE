@@ -84,14 +84,14 @@ buttons = [
             text="🦋 ADD 𝙂𝘼𝙉𝙂𝙎𝙏𝙀𝙍 TO YOUR GROUP 🦋", url="t.me/Mrgangbot?startgroup=true"),
     ],
     [
-        InlineKeyboardButton(text="⚡ABOUT", callback_data="masha_"),
-        InlineKeyboardButton(text="📚COMMANDS", callback_data="help_back"),
+        InlineKeyboardButton(text="⚡ᴀʙᴏᴜᴛ", callback_data="masha_"),
+        InlineKeyboardButton(text="📚ᴄᴏᴍᴍᴀɴᴅs", callback_data="help_back"),
     ],
     [
         InlineKeyboardButton(
-            text="✨Owner✨", url="http://t.me/Gang_Of_Telegram"),
+            text="✨ᴏᴡɴᴇʀ✨", url="http://t.me/Gang_Of_Telegram"),
         InlineKeyboardButton(
-            text="👥SUPPORT👥", url="https://t.me/MRGangsterbot"),
+            text="👥sᴜᴘᴘᴏʀᴛ👥", url="https://t.me/MRGangsterbot"),
     ],
     [  
         
