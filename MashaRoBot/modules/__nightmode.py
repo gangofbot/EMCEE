@@ -145,7 +145,7 @@ async def job_open():
     for pro in chats:
         try:
             await telethn.send_message(
-              int(pro.chat_id), "06:00 Am, Group Is Opening.\n**Powered By Evlie**"
+              int(pro.chat_id), "06:00 Am, Group Is Opening.\n**Powered By 𝙂𝘼𝙉𝙂𝙎𝙏𝙀𝙍**"
             )
             await telethn(
             functions.messages.EditChatDefaultBannedRightsRequest(
