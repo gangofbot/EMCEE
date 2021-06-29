@@ -81,7 +81,7 @@ PM_START_TEXT = """
 buttons = [
     [
         InlineKeyboardButton(
-            text="🦋 ADD GANGSTER TO YOUR GROUP 🦋", url="t.me/Mrgangbot?startgroup=true"),
+            text="🦋 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 🦋", url="t.me/Mrgangbot?startgroup=true"),
     ],
     [
         InlineKeyboardButton(text="⚡ᴀʙᴏᴜᴛ", callback_data="masha_"),
