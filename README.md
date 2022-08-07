@@ -4,7 +4,7 @@ GANGSTER BOT IS ADVANCE GROUP MANAGER BOT FOR GEEKS
 
 CLICK ON BELOW IMAGE TO DEPLOY ON HEROKU 
 
-[![DEPLOY](https://telegra.ph/file/0f445d6406d09eb05e40f.jpg)](https://heroku.com/deploy?template=https://github.com/satyanandatripathi/EMCEE)
+[![DEPLOY](https://telegra.ph/file/0f445d6406d09eb05e40f.jpg)](https://heroku.com/deploy?template=https://github.com/gangofbot/EMCEE)
 
 Keep supporting us 😊
 
